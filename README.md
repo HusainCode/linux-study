@@ -1,2 +1,4 @@
-# linux-study
- study repo for learning Linux
+# This repository for learning Linux    
+
+ 
+ 
